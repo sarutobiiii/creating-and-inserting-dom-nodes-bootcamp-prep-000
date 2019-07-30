@@ -24,7 +24,7 @@ const codes = [
         index++;
         
         if (index === codes.length) {
-          
+          alert("congratulations")
         }
       }
     }

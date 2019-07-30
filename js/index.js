@@ -29,6 +29,7 @@ const codes = [
           index = 0;
         }
       }
-      else {index = 0;
+      else {
+        index = 0;
     }
   }

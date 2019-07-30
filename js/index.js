@@ -18,5 +18,5 @@ const codes = [
     
     const body = document.querySelector('body')
     
-    body.addEventListener()
+    body.addEventListener(keydown, function(e))
   }

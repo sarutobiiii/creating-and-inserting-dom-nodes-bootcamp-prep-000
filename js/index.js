@@ -33,3 +33,4 @@ const codes = [
         index = 0;
     }
   });
+  }

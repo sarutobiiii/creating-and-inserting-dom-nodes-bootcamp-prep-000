@@ -15,5 +15,6 @@ const codes = [
   
   function init() {
     let index = 0;
-    const body = querySelector(())
+    const body = document.querySelector('body')
+    
   }

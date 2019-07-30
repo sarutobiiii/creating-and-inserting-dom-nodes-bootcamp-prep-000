@@ -32,4 +32,4 @@ const codes = [
       else {
         index = 0;
     }
-  }
+  });

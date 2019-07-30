@@ -23,7 +23,9 @@ const codes = [
       if (key === codes[index]){
         index++;
         
-        if (index === codes.length)
+        if (index === codes.length) {
+          
+        }
       }
     }
   }

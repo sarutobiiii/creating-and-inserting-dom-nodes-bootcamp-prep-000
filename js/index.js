@@ -29,6 +29,6 @@ const codes = [
           index = 0;
         }
       }
-      else {index =
+      else {index = 0;
     }
   }
